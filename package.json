@@ -1,0 +1,18 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "pog",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "installall": "npm install build-essentials && npm install discord.js && npm install opusscript && npm install ms "
+  },
+  "author": "djS",
+  "license": "The Unlicense",
+  "dependencies": {
+    "discord": "^0.8.2",
+    "discord.js": "^12.5.1",
+    "got": "^11.8.0",
+    "ms": "^2.1.2"
+  }
+}
